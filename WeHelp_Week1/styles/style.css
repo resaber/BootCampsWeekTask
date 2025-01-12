@@ -172,7 +172,7 @@ main {
     align-items: center;
   }
   .MenuItems-buttonMode {
-    display: flex;
+    display: none;
   }
   .MenuItems {
     display: none;
